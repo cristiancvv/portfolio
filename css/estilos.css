@@ -42,10 +42,11 @@ p{
 
 .btn-whatsapp{
     position: fixed;
-    right: 50px;
+    right: 70px;
     bottom: 0px;
     background-color: #370a6d;
     color: white;
+    font-size: 31px;
 }
 .link-rojo{
     color: #ff4a49;
@@ -126,8 +127,30 @@ p{
     font-weight: 600;
 }
 .foto-perfil{
-    border-radius: 600px;
-    height: 300px;
+    border-radius: 650px;
+    max-width: 75%;
+    
+}
+#stack-tecnologico{
+    background-color: #e20000;
+}
+#stack-tecnologico .tecnologia{
+background-color: white;
+border-radius: 5px;
+text-align: center;
+}
+#stack-tecnologico .tecnologia i{
+    color: #6a6a6a;
+    font-size: 60px;
+}
+#stack-tecnologico h3{
+    font-size: 14px;
+    font-weight: 300;
+    color: #6a6a6a;
+}
+#stack-tecnologico h2{
+    color: white;
+    font-size: 24px;
 }
 @media (max-width: 750px){
     /* para mobile*/
