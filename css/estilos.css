@@ -152,6 +152,27 @@ text-align: center;
     color: white;
     font-size: 24px;
 }
+#experiencia h2{
+    font-size: 24px;
+    color: #370a6d;
+font-weight: 400;
+}
+#experiencia h3{
+    color: #6a6a6a;
+    font-size: 18px;
+    font-weight: 600;
+}
+#experiencia h4{
+    font-size: 17px;
+    color: #370a6d;
+}
+#experiencia h5{
+    color: #6a6a6a;
+    font-size: 14px;
+}
+#experiencia i{
+    
+}
 @media (max-width: 750px){
     /* para mobile*/
     #contacto, #inicio{
